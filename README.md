@@ -1,2 +1,2 @@
-# UX
-GRAB-A-COFFEE UX Design Project
+# UX Design Project
+GRAB-A-COFFEE App 
